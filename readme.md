@@ -6,3 +6,4 @@
 - pause() and resume() game\
 - adding music
 - setTimeout()
+- making the site responsive to any page size using css
